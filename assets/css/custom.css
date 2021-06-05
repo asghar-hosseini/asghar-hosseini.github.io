@@ -1,0 +1,23 @@
+.navbar-brand h3{
+    color: white;
+}
+.navbar-area.sticky .navbar-brand h3{
+    color: #121212;
+}
+.footer-area{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#top-banner-name{
+    font-size: 25px;
+    /* color: white; */
+}
+.top-banner-container{
+    background-color: white;
+}
+.single-portfolio{
+    margin: 7px;
+}
+#email-address{
+    font-size: 0.9em;
+}
